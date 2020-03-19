@@ -1,0 +1,39 @@
+li{
+    width: 250px;
+    height: 200px;
+    border-style: dashed;
+    margin: 0 16px 16px 0;
+}
+.id{
+    text-align: center;
+    font-size: 5;
+    font-style: initial;
+    background-color: lightgoldenrodyellow;
+
+}
+
+.name{
+    height: 125px;
+    font-size: 2em;
+    display:flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border-style: dotted;
+    background-color: blanchedalmond;
+    
+}
+
+.buttonD{
+   width:250px;
+   text-align: center;
+   background-color: lightcoral;
+   
+}
+.buttonE{
+    width:250px;
+    text-align: center;
+    background-color: lightblue;
+    
+ }
